@@ -1,5 +1,5 @@
-Blok 2
+# **Blok 2**
 
-Data Engineering
-Requirements Engineering en Testing
-Scripting 2
+- Data Engineering
+- Requirements Engineering en Testing
+- Scripting 2
