@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planning - Gebruiker</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        a {
+            display: inline-block;
+            margin-top: 10px;
+            text-decoration: none;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Planning - Gebruiker</h1>
+    <table>
+        <tr>
+            <th>Datum</th>
+            <th>Tijd</th>
+            <th>Beschrijving</th>
+        </tr>
+        {% for reservering in reserveringen %}
+        <tr>
+            <td>{{ reservering[1] }}</td>
+            <td>{{ reservering[2] }}</td>
+            <td>{{ reservering[3] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <a href="/dashboard">Terug naar dashboard</a>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gebruikers Overzicht</title>
+</head>
+<body>
+    <h1>Gebruikers Overzicht</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Voornaam</th>
+                <th>Achternaam</th>
+                <th>Email</th>
+                <th>Rol</th>
+                <th>Acties</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for gebruiker in gebruikers %}
+                <tr>
+                    <td>{{ gebruiker[1] }}</td>  <!-- Voornaam -->
+                    <td>{{ gebruiker[2] }}</td>  <!-- Achternaam -->
+                    <td>{{ gebruiker[3] }}</td>  <!-- Email -->
+                    <td>{{ gebruiker[4] }}</td>  <!-- Rol -->
+                    <td>
+                        <a href="{{ url_for('gebruikers_verwijderen', id=gebruiker[0]) }}">Verwijderen</a> |
+                        <a href="{{ url_for('gebruikers_blokkeren', id=gebruiker[0]) }}">Blokkeren</a>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a href="{{ url_for('gebruikers_toevoegen') }}">Nieuwe Gebruiker Toevoegen</a> |
+    <a href="{{ url_for('dashboard') }}">Terug naar Dashboard</a>
+</body>
+</html>
