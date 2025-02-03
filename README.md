@@ -43,7 +43,7 @@ pip install functools32
 ```
 pip install werkzeug
 ```
-
+<br>
 <br>
 
 ! -------- De onderstaande code is niet getest maar werkt waarschijnlijk wel -------- !
