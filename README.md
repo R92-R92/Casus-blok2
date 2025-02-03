@@ -8,7 +8,7 @@
 # **Blok 2**
 
 <br>
-asdasd
+Het is belangrijk om de volledige README te lezen voordat je verdergaat. Dit zorgt ervoor dat je alle benodigde stappen en informatie hebt om de applicatie correct in te stellen en te gebruiken.
 
 # **How to use!**
 
