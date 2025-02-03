@@ -31,6 +31,8 @@ Uw login gegevens vindt u terug in ...
 ```
 pip install pysqlite3
 ```
+<br>
+
 - Flask
 ```
 pip install Flask
