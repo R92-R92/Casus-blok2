@@ -27,34 +27,33 @@ Uw login gegevens vindt u terug in ...
 
 # **Libraries**
 
-- sqlite3  
-
+- sqlite3
+<br> 
 ```
 pip install pysqlite3
 ```
-- Flask  
-
+- Flask
+<br>
 ```
 pip install Flask
 ```
 - Functools
-
+<br>
 ```
 pip install functools32
 ``` 
-- Werkzeug  
-
+- Werkzeug
+<br>
 ```
 pip install werkzeug
 ```
-  
-  
+<br>
+<br>
 
 Het is ook mogelijk om libraries te installeren via de requirements.txt  
 Download de requirements.txt
 Open een terminal in de map waar de requirements.txt zich bevindt
 Voer in de terminal het volgende commando uit
-
 ```
 pip install -r requirements.txt
 ```
