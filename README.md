@@ -32,4 +32,4 @@ Uw login gegevens vindt u terug in ...
 - Functools pip install functools32
 - Werkzeug pip install werkzeug
 
-
+pip install -r requirements.txt
