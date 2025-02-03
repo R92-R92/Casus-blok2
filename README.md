@@ -46,7 +46,7 @@ pip install werkzeug
 <br>
 <br>
 
-# -------- De onderstaande code is niet getest maar werkt waarschijnlijk wel -------- #  
+## -------- De onderstaande code is niet getest maar werkt waarschijnlijk wel -------- ##  
 
 <br>
 <br>
