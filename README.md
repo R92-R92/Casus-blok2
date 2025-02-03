@@ -5,7 +5,7 @@
 - Requirements Engineering en Testing
 - Scripting 2
 
-# **Blok 2**
+# **Belangrijk!**
 
 <br>
 Het is belangrijk om de volledige README te lezen voordat je verdergaat. Dit zorgt ervoor dat je alle benodigde stappen en informatie hebt om de applicatie correct in te stellen en te gebruiken.
