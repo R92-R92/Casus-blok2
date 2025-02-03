@@ -31,6 +31,7 @@ Press CTRL+C to quit
 
 Klik vervolgens onder warning op "http://127.0.0.0:5000" om het login scherm te openen  
 Uw login gegevens vindt u terug in ...
+Vervolgens kunt u verder gaan met het installeren van de benodigde libraries
 
 # **Libraries**
 
