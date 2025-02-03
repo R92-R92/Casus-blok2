@@ -59,7 +59,7 @@ pip install werkzeug
 Het is ook mogelijk om libraries te installeren via de requirements.txt   
 Download de requirements.txt  
 Open een terminal in de map waar de requirements.txt zich bevindt  
-Voer in de terminal het volgende commando uit  
+Voer in de terminal het volgende commando uit:  
 
 <br>
 
