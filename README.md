@@ -22,4 +22,5 @@ Press CTRL+C to quit
  * Debugger is active!  
  * Debugger PIN: 145-265-970  
 ```
-Klik vervolgens onder warning op "http://127.0.0.0:5000" om het login scherm te openen
+Klik vervolgens onder warning op "http://127.0.0.0:5000" om het login scherm te openen  
+Uw login gegevens vindt u terug in ...
