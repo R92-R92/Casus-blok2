@@ -49,7 +49,6 @@ pip install werkzeug
 ! -------- De onderstaande code is niet getest maar werkt waarschijnlijk wel -------- !
 
 <br>
-<br>
 
 Het is ook mogelijk om libraries te installeren via de requirements.txt  
 Download de requirements.txt
