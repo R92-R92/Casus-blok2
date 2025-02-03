@@ -90,5 +90,5 @@ pip install -r requirements.txt
 
 <br>
 
-De unittest is terug te vinden in het mapje 'test'
+De unittest is terug te vinden in het mapje 'test'  
 Run de DbControllerTest.py
