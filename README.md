@@ -1,5 +1,6 @@
 # **Blok 2**
 
+<br>
 - Data Engineering
 - Requirements Engineering en Testing
 - Scripting 2
@@ -29,6 +30,8 @@ Klik vervolgens onder warning op "http://127.0.0.0:5000" om het login scherm te 
 Uw login gegevens vindt u terug in ...
 
 # **Libraries**
+
+<br>
 
 - sqlite3
 ```
