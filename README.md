@@ -28,3 +28,6 @@ Uw login gegevens vindt u terug in ...
 # **Libraries**
 
 - sqlite3
+- Flask
+- Functools
+
