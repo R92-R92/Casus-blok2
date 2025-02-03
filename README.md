@@ -86,6 +86,4 @@ Voer in de terminal het volgende commando uit:
 pip install -r requirements.txt
 ```
 
-<br>
-
-# **How to use!**
+# **Unittest**
