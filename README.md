@@ -28,22 +28,18 @@ Uw login gegevens vindt u terug in ...
 # **Libraries**
 
 - sqlite3
-<br> 
 ```
 pip install pysqlite3
 ```
 - Flask
-<br>
 ```
 pip install Flask
 ```
 - Functools
-<br>
 ```
 pip install functools32
 ``` 
 - Werkzeug
-<br>
 ```
 pip install werkzeug
 ```
