@@ -35,6 +35,8 @@ pip install pysqlite3
 ```
 pip install Flask
 ```
+<br>
+
 - Functools
 ```
 pip install functools32
